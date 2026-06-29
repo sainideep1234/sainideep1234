@@ -1,102 +1,70 @@
-<div align="center">
+# Deepanshu Saini
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B+I'm+Deepanshu+Saini;Full+Stack+Engineer+%F0%9F%9A%80;AI+%2B+API+Systems+Specialist+%F0%9F%A4%96;Building+at+the+Speed+of+Thought+%E2%9A%A1" alt="Typing SVG" /></a>
+**Full Stack Engineer** · API Systems · AI / RAG · Delhi, India
 
-<br/>
+I build production backends, API layers, and AI-powered document systems — primarily with **TypeScript**, **Node.js**, and **React**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshusaini1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshusaini545@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=sainideep1234&style=for-the-badge&color=6E40C9)](https://github.com/sainideep1234)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshusaini1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:deepanshusaini545@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://deepanshu-saini-portfolio.onrender.com/)
 
 ---
 
-## 🧑‍💻 About Me
-```typescript
-const deepanshu = {
-  role:       "Full Stack Engineer  |  API & AI Systems",
-  location:   "Delhi, India 🇮🇳",
-  education:  "B.Tech CS @ USICT, Delhi  •  GPA: 8.12/10",
-  focus:      ["Scalable APIs", "RAG Systems", "Microservices", "LLM Integration"],
-  superpower: "Turning complex backend problems into clean, performant solutions",
-  funFact:    "AIR 56 nationally 🏆  |  250+ DSA problems solved ⚡"
-};
-```
+## About
+
+Full Stack Engineer focused on scalable APIs, microservices, and LLM-integrated products. Experience spans API gateway design, production RAG pipelines, and full-stack delivery in startup and enterprise settings.
+
+Currently **MERN Stack Developer** at [The Bharat Scouts and Guides](https://www.linkedin.com/company/the-bharat-scouts-and-guides), National Headquarters — building and maintaining web applications for one of India's largest youth organizations.
+
+Previously **API Engineer** at Prodigal AI, where I led backend infrastructure across 5+ microservices, and **SDE Intern** at Go Laddu, shipping features to a live platform with thousands of daily users.
+
+**Selected impact**
+
+| Area | Outcome |
+| --- | --- |
+| API Gateway | Centralized Node.js/TypeScript gateway — **25%** lower integration latency, new service onboarding from 2 weeks to 3 days |
+| RAG System | Production document retrieval with Gemini, LangChain, and Qdrant — **90%+** query accuracy |
+| Engineering quality | CI/CD, Jest, and API automation — **30%** fewer backend defects, **2×** deployment speed |
+| Product delivery | Bazaar (99.9% uptime) · Safar (95 Lighthouse score, AI recommendations) |
+
+**Education:** B.Tech Computer Science, USICT, Delhi — GPA 8.12/10 · AIR **56** in national technical examination · 250+ DSA problems solved
 
 ---
 
-## 🛠️ Tech Stack
+## Currently Building
 
-<div align="center">
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**AI / ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_LLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant_VectorDB-DC143C?style=for-the-badge)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sainideep1234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainideep1234&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sainideep1234&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
+| Project | Summary |
+| --- | --- |
+| [Arpo-bot](https://github.com/sainideep1234/Arpo-bot) | AI Q&A for BSG India — verified answers from official rulebooks · [Live demo](https://arpo-bot.vercel.app) |
+| [PerpatualExchange](https://github.com/sainideep1234/PerpatualExchange) | Perpetual exchange platform — active development |
+| [terminal-harness](https://github.com/sainideep1234/terminal-harness) | Terminal-based tooling and automation harness |
+| [voice-seat-booking-agent](https://github.com/sainideep1234/voice-seat-booking-agent) | Voice-driven seat booking agent |
+| [Pdf-rag](https://github.com/sainideep1234/Pdf-rag) | PDF ingestion and retrieval-augmented generation pipeline |
+| [apify-doc-scrapper-actor](https://github.com/sainideep1234/apify-doc-scrapper-actor) | Apify actor for structured document scraping |
 
 ---
 
-## 🤝 Let's Connect
+## Core Stack
 
-<div align="center">
+| Domain | Technologies |
+| --- | --- |
+| **Languages** | TypeScript, JavaScript, Python, C++ |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | Node.js, Express, GraphQL, REST, Microservices |
+| **Databases** | PostgreSQL, MongoDB, Qdrant |
+| **AI / ML** | LangChain, Gemini, RAG pipelines, vector search |
+| **DevOps & Quality** | Docker, GitHub Actions, Jest, Postman |
 
-> *"I build things that scale — APIs with zero latency, AI systems that think in real time, frontends that perform at 95+ Lighthouse scores."*
+---
 
-**Open to full-time roles · Freelance projects · Open source collaborations**
+## GitHub
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshusaini1)
-[![Send an Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshusaini545@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=sainideep1234&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="165"/>
 
-<br/>
+---
 
-<sub>⭐ If my work interests you, drop a star on a repo — it really helps! ⭐</sub>
+## Contact
 
-![wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+Open to full-time roles, contract work, and open source collaboration.
 
-</div>
+**[LinkedIn](https://linkedin.com/in/deepanshusaini1)** · **[deepanshusaini545@gmail.com](mailto:deepanshusaini545@gmail.com)** · **[Portfolio](https://deepanshu-saini-portfolio.onrender.com/)**
