@@ -16,17 +16,6 @@ Full Stack Engineer focused on scalable APIs, microservices, and LLM-integrated 
 
 Currently **MERN Stack Developer** at [The Bharat Scouts and Guides](https://www.linkedin.com/company/the-bharat-scouts-and-guides), National Headquarters — building and maintaining web applications for one of India's largest youth organizations.
 
-Previously **API Engineer** at Prodigal AI, where I led backend infrastructure across 5+ microservices, and **SDE Intern** at Go Laddu, shipping features to a live platform with thousands of daily users.
-
-**Selected impact**
-
-| Area | Outcome |
-| --- | --- |
-| API Gateway | Centralized Node.js/TypeScript gateway — **25%** lower integration latency, new service onboarding from 2 weeks to 3 days |
-| RAG System | Production document retrieval with Gemini, LangChain, and Qdrant — **90%+** query accuracy |
-| Engineering quality | CI/CD, Jest, and API automation — **30%** fewer backend defects, **2×** deployment speed |
-| Product delivery | Bazaar (99.9% uptime) · Safar (95 Lighthouse score, AI recommendations) |
-
 **Education:** B.Tech Computer Science, USICT, Delhi — GPA 8.12/10 · AIR **56** in national technical examination · 250+ DSA problems solved
 
 ---
@@ -48,20 +37,14 @@ Previously **API Engineer** at Prodigal AI, where I led backend infrastructure a
 
 | Domain | Technologies |
 | --- | --- |
-| **Languages** | TypeScript, JavaScript, Python, C++ |
+| **Languages** | TypeScript, JavaScript, C++ |
 | **Frontend** | React, Next.js, Tailwind CSS |
 | **Backend** | Node.js, Express, GraphQL, REST, Microservices |
 | **Databases** | PostgreSQL, MongoDB, Qdrant |
 | **AI / ML** | LangChain, Gemini, RAG pipelines, vector search |
-| **DevOps & Quality** | Docker, GitHub Actions, Jest, Postman |
+| **DevOps & Quality** | Docker, Postman |
 
----
 
-## GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=sainideep1234&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="165"/>
-
----
 
 ## Contact
 
